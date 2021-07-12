@@ -86,6 +86,20 @@ margin-bottom: 27px;
 
 
 /*------------courses style---------------*/
+.courses{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 24px;
+}
+.course{
+Width: 252.42px;
+Height: 269.79px;
+Top: 895px;
+Left :296px;
+Blend: Pass through;
+drop-shadow:(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+
+}
 .course .course-banner img{
     width: 224px;
     height: 104px;

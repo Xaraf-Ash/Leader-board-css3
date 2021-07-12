@@ -92,12 +92,11 @@ margin-bottom: 27px;
     grid-column-gap: 24px;
 }
 .course{
-Width: 252.42px;
-Height: 269.79px;
-Top: 895px;
-Left :296px;
-Blend: Pass through;
-drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
+width: 253px;
+height: 270px;
+border-radius: 10px;
+box-shadow: 0px 1px 2px lightgray;
+padding: 14px 13px;
 
 
 }
@@ -122,6 +121,7 @@ drop-shadow(0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05));
 .course-duration{
     color: #FF4A60;
     background-color: #FFE4E8;
-    padding: 3px;
-    border-radius: 14px;
+    padding: 4px 6px;
+    border-radius: 15px;
+  
 }
